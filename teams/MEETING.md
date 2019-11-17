@@ -1,2 +1,2 @@
 # Meeting Team
-*Replace this with definition*
+*Buluşmaları ve toplantı gün ve saatlerini düzenler*
